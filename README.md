@@ -1,5 +1,5 @@
 # README
-M1 MacとIntel Macの両方で動作するRails x MySQLのDocker環境です
+Docker template that runs on M1 Mac and Intel Mac.
 
 Version
 ```
