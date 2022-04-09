@@ -15,7 +15,7 @@ MySQL 5.7
 ```bash
 $ mkdir YOUR_REPOSITORY_NAME
 $ cd YOUR_REPOSITORY_NAME
-$  .
+$ git clone git@github.com:ShutaTakeuchi0410/rails6-mysql-docker-template.git .
 ```
 
 ### 2. Rails new
